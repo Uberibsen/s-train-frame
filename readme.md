@@ -35,7 +35,7 @@ stops_index = {'a_line': [1, 32, 14, 24],
 ```
 *`stops_index` numbers cooresponds to the indexes below and each line have their own set in index numbers*
 ### Example of stops with cooresponding indexes
-!["Line C, H, B and Bx on the S-train network"](img\example.jpg)
+!["Line C, H, B and Bx on the S-train network"](img/example.jpg)
 
 ## Physical construction
 *The frame is currently under construction. More pictures and build files in a future release*
